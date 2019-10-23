@@ -18,23 +18,31 @@
         <TextView
             android:text="进货"
             android:layout_marginRight="@dimen/margin_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             style="@style/top_item"
             android:onClick="onAddGoodsClick"/>
 
         <TextView
             android:text="全部"
             android:layout_marginRight="@dimen/margin_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             style="@style/top_item"
             android:onClick="onQueryAllClick"/>
 
         <TextView
             android:text="水果"
             android:layout_marginRight="@dimen/margin_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             style="@style/top_item"
             android:onClick="onQueryFruitsClick"/>
 
         <TextView
             android:text="零食"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             style="@style/top_item"
             android:onClick="onQuerySnacksClick"/>
 

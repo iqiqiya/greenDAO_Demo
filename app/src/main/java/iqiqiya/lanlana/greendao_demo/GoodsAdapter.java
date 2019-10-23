@@ -84,4 +84,5 @@ public class GoodsAdapter extends RecyclerView.Adapter<GoodsAdapter.VH> {
 
         }
     }
+
 }

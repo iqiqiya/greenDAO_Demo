@@ -3,7 +3,6 @@ package iqiqiya.lanlana.greendao_demo;
 import android.app.Application;
 import android.database.sqlite.SQLiteDatabase;
 
-import androidx.appcompat.app.AppCompatActivity;
 import iqiqiya.lanlana.greendao_demo.model.DaoMaster;
 import iqiqiya.lanlana.greendao_demo.model.DaoSession;
 
